@@ -1,0 +1,1 @@
+A basic web framework using bullwinkle constructs as its basis.  This is partially a testbed for bullwinkle activities and also a means for exploring web toolkit features and functions.
